@@ -1,4 +1,4 @@
 target/tomcat/conf/logging.properties
+target/tomcat/conf/web.xml
 target/tomcat/conf/tomcat-users.xml
 target/tomcat/logs/access_log.2017-04-14
-target/tomcat/conf/web.xml
