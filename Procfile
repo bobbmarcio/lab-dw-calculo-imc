@@ -1,1 +1,1 @@
-web: sh src/main/webapp/index.html
+web: sh /src/main/webapp/index.html
